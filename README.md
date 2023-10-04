@@ -11,3 +11,5 @@ Cambios hechos desde GitHub.
 
 ##Este es la prueba 2 sobre pull en GitHub.
 GitHub README 2
+###Ahora comente esto desde VScode
+para probar el comando push.
